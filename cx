@@ -1,5 +1,5 @@
 project:
-  fullPath: CxServer\CLI_GIT_Project
+  fullPath: CxServer\GIT_PROJECT
 sast:
   preset: 'Checkmarx Defualt'
   incremental: false
