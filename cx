@@ -1,7 +1,7 @@
 project:
   fullPath: CxServer\GIT_PROJECT
 sast:
-  preset: 'Checkmarx Defualt'
+  preset: 'Checkmarx Default'
   incremental: false
   privateScan: false
   configuration: Default Configuration
