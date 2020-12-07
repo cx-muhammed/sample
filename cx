@@ -1,5 +1,6 @@
 project: 
   fullPath: \"CxServer\GIT_PROJECT\"
+  origin: "cx-cli"
 sast: 
   configuration: "Default Configuration"
   excludeFolders: \"_cvs, .svn, .hg, .git, .bzr, bin, obj, backup, node_modules\"
